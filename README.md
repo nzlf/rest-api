@@ -81,14 +81,3 @@ Mengupdate data project berdasarkan ID.
 
 ### DELETE /projects/{project_id}
 Menghapus data project berdasarkan ID.
-
-## Cara Menjalankan Project
-
-```bash
-pip install -r requirements.txt
-uvicorn app.main:app --reload
-```
-
-## Author
-
-Nazala Furqon
